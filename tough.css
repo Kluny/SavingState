@@ -1,0 +1,44 @@
+html	{
+
+}
+
+body	{	background-color:#003030;
+			color:#E0EEE0;
+			font-size:.8em;
+}
+
+h1		{	font-size:3.3em;
+			font-family:Courier New, Courier New
+
+}
+
+h2		{	font-size:3em;
+			font-family:Courier New, Courier New
+
+}
+
+h3		{	font-size:2em;
+			font-family:Courier New, Courier New
+
+}
+
+
+div 	{ 	padding-top: 2em;  
+      		padding-right: 2em;  
+			padding-bottom: 2em;  
+			padding-left: 5em; 
+			font-family:Tahoma, Geneva;
+
+}
+
+p 		{  	text-align:center;
+    		font-size:0.9em;
+    		padding:8em;
+
+}
+
+.lyric 	{ 	text-align:left;
+			padding:4em;
+
+}
+

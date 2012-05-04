@@ -1,0 +1,39 @@
+html	{	
+
+}
+
+
+body	{ 	background-color:#424242;
+			color:#FEF9ED;
+
+}
+
+h1		{	font-size:2em;
+
+}
+
+h2		{
+
+}
+
+h3		{
+
+}
+
+div 	{	padding-top: 2em;  
+      		padding-right: 2em;  
+			padding-bottom: 2em;  
+			padding-left: 5em;  
+			font-family:Monaco, Lucida Console, monospace;
+}
+
+p 		{   text-align:center;
+    		font-size:0.9em;
+    		padding:8em;
+}
+
+.lyric 	{ 	text-align:left;
+			padding:4em;
+
+}
+

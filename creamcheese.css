@@ -1,0 +1,38 @@
+html	{
+
+}
+
+body	{	background-color:#FEF1E9;
+
+}
+
+h1		{	
+
+}
+
+h2		{	
+
+}
+
+h3		{	
+
+}
+
+div 	{ 	padding-top: 2em;  
+      		padding-right: 2em;  
+			padding-bottom: 2em;  
+			padding-left: 5em;
+			font-family:sans-serif;
+
+}
+
+p 		{   text-align:center;
+    		font-size:0.9em;
+    		padding:8em;
+}
+
+.lyric 	{ 	text-align:left;
+			padding:4em;
+
+}
+
